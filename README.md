@@ -1,5 +1,9 @@
 The PDF Manager is a web-based application designed to streamline the management of PDF files by providing functionalities to merge and split PDFs. Developed using Flask, a micro web framework for Python, this tool offers a user-friendly interface and efficient backend processing.
 
+Pre-requisites:
+- install PyMuPDF
+- install Flask
+
 Key Features:
 
 - Merge PDFs:
